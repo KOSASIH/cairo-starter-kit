@@ -8,7 +8,7 @@
 </p>
 <br/>
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/smartcontractkit/cairo-starter-kit)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/KOSASIH/cairo-starter-kit)
 
 The boilerplate code for getting started with the usage of Chainlink services on Starknet. [Here](https://docs.chain.link/data-feeds/starknet) you can visit the official Chainlink documentation for using Data Feeds on Starknet.
 
@@ -30,7 +30,7 @@ Be sure to have installed the following
 To clone the repository, run the following commands:
 
 ```
-git clone https://github.com/smartcontractkit/cairo-starter-kit.git
+git clone https://github.com/KOSASIH/cairo-starter-kit.git
 cd cairo-starter-kit
 ```
 
